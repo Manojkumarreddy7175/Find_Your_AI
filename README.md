@@ -1,4 +1,4 @@
-# Finf Your AI
+# Find Your AI
 
 
 **AI House** is a platform that aggregates various AI tools into one place.  
