@@ -1,7 +1,7 @@
 # Find Your AI
 
 
-**AI House** is a platform that aggregates various AI tools into one place.  
+**Find Your AI ** is a platform that aggregates various AI tools into one place.  
 This repository includes:
 - A submission form for users to propose new AI tools.
 - An admin dashboard for approving or rejecting submissions.
